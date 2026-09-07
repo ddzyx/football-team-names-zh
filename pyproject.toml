@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "football-team-names-zh"
+version = "0.1.0"
+authors = [
+  { name = "QiuXiaoCe Team", email = "contact@qiuxiaoce.com" },
+]
+description = "Fast, zero-dependency Chinese & English normalization and alias matching for global football clubs and leagues."
+readme = "README.md"
+requires-python = ">=3.7"
+license = "MIT"
+keywords = [
+  "football", "soccer", "team-names", "chinese-aliases", "sports-data", 
+  "premier-league", "la-liga", "serie-a", "bundesliga", "qiuxiaoce"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Operating System :: OS Independent",
+  "Topic :: Text Processing :: Linguistic",
+  "Intended Audience :: Developers",
+]
+
+[project.urls]
+"Homepage" = "https://www.qiuxiaoce.com"
+"Data Source" = "https://www.qiuxiaoce.com"
+"Daily Report" = "https://www.qiuxiaoce.com/mei-ri-bao-gao-su-lan/"
+"Source Code" = "https://github.com/ddzyx/football-team-names-zh"
+"Bug Tracker" = "https://github.com/ddzyx/football-team-names-zh/issues"

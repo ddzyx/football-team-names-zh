@@ -1,0 +1,28 @@
+{
+  "name": "football-team-names-zh",
+  "version": "0.1.0",
+  "description": "Fast, zero-dependency Chinese & English normalization and alias matching for global football clubs and leagues.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddzyx/football-team-names-zh.git"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "team-names",
+    "chinese-aliases",
+    "sports-data",
+    "premier-league",
+    "qiuxiaoce"
+  ],
+  "author": "QiuXiaoCe Team <contact@qiuxiaoce.com> (https://www.qiuxiaoce.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddzyx/football-team-names-zh/issues"
+  },
+  "homepage": "https://www.qiuxiaoce.com"
+}
