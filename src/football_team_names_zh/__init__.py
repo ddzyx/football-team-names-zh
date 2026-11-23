@@ -11,7 +11,7 @@ football-team-names-zh
 from .data import LEAGUES_DATA, TEAMS_DATA
 from .normalizer import normalize_team, search_teams, normalize_league
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __all__ = [
     "normalize_team",
     "search_teams",
