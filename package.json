@@ -1,6 +1,6 @@
 {
   "name": "football-team-names-zh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Fast, zero-dependency Chinese & English normalization and alias matching for global football clubs and leagues.",
   "main": "src/index.js",
   "scripts": {
